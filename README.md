@@ -1,2 +1,3 @@
 # Desavio DIO
-Repositório criado 
+ - Repositório criado 
+ - Criação da index do projeto
